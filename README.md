@@ -2,7 +2,8 @@
 
 Aluno: Daniel Luiz Araújo Marques
 
-O programa foi desenvolvido no WSL 2 : Ubuntu 22.04 LTS utilizando Python 3.10.6
+O programa foi desenvolvido no WSL 2 : Ubuntu 22.04 LTS utilizando Python 3.10.6.
+
 Tudo referente ao código está devidamente comentado no mesmo.
 
 Heurística:
