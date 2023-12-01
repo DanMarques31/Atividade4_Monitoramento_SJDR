@@ -12,6 +12,7 @@ O problema de cobertura de vértices é um problema np-completo que se trata de
 obter o conjunto de vértices de maneira que qualquer aresta do grafo tem pelo
 menos incidência em um dos vértices do conjunto. Devido a ser np-completo é
 necessário o desenvolvimento de uma heurística aproximada.
+
 A heurística desenvolvida foi bastante simples, ela funciona basicamente
 encontrando o vértice de maior grau. O algoritmo obtém o vértice de maior grau (ou
 seja, vértice com maior número de arestas conectadas a ele) e o coloca em uma
